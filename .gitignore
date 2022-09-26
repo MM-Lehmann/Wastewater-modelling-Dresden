@@ -130,4 +130,8 @@ dmypy.json
 
 # cache
 cachedir/
+
+# images
 *.png
+*.wmf
+*.svg
